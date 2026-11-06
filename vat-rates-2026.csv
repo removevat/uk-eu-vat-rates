@@ -1,0 +1,7 @@
+country,standard_rate_percent,reduced_rates_percent,notes
+United Kingdom,20,5;0,VAT registration threshold £90000 (rolling 12 months); deregistration £88000
+Germany,19,7,MwSt Rechner reference rates
+France,20,10;5.5;2.1,calcul TVA reference rates
+Spain,21,10;4,calculadora IVA reference rates
+Italy,22,10;5;4,calcolo IVA reference rates
+Netherlands,21,9,btw berekenen reference rates
