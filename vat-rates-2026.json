@@ -1,0 +1,6 @@
+[{"country":"United Kingdom","standard_rate_percent":20,"reduced_rates_percent":[5,0]},
+{"country":"Germany","standard_rate_percent":19,"reduced_rates_percent":[7]},
+{"country":"France","standard_rate_percent":20,"reduced_rates_percent":[10,5.5,2.1]},
+{"country":"Spain","standard_rate_percent":21,"reduced_rates_percent":[10,4]},
+{"country":"Italy","standard_rate_percent":22,"reduced_rates_percent":[10,5,4]},
+{"country":"Netherlands","standard_rate_percent":21,"reduced_rates_percent":[9]}]
