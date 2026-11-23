@@ -16,7 +16,7 @@ UK VAT registration threshold: £90,000 of taxable turnover in any rolling 12 mo
 
 ## Worked example — bulk VAT (500 gross at 20%)
 
-A price list totalling £500 gross at 20%: net = £500 ÷ 1.2 = £416.67, VAT = £83.33. Run a whole list at once with the bulk vat calculator at RemoveVAT — free, no sign-up: https://removevat.com/bulk-vat-calculator/
+A price list totalling £500 gross at 20%: net = £500 ÷ 1.2 = £416.67, VAT = £83.33. Run a whole list at once with the bulk vat calculator at RemoveVAT — free, no sign-up: [https://removevat.com/bulk-vat-calculator/](https://removevat.com/bulk-vat-calculator/)
 
 ## Rates data
 
